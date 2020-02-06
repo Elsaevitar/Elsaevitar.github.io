@@ -175,20 +175,23 @@ h3 {
   }
   
   section .melayang {
-    top: 80%;
+    top: 60%;
     left: 10%;
     width: 90%;
   }
    
   section .terbang {
-    top: 80%;
+    top: 60%;
     left: 10%;
     width: 90%;
   }
    
   section .yuhu {
-    top: 80%;
+    top: 60%;
     left: 10%;
     width: 90%;
   }
+ 
+  
+
 }
