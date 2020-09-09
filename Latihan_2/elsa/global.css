@@ -1,0 +1,72 @@
+* {
+	margin :0;
+	padding: 0;
+	}
+
+.container {
+	width: 90vw;
+	height: 91vh;
+	background-color: black;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+	position: fixed;
+
+}
+
+.satu {
+	width: 88vw;
+	height: 20vh;
+	margin-top: 2vh;
+	margin-bottom: 2vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+	background-color: #FCBC49;
+}
+
+.dua {
+	width: 27.9vw;
+	height: 23vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+	margin-bottom: 2vh;
+	background-color: #FBA01D;
+	float: left;
+
+}
+
+.tiga {
+	width: 30vw;
+	height: 13vh;
+	margin-top: 10vh;
+	margin-bottom: 2vh;
+	background-color: #1F5C70;
+	float: left;
+}
+
+.empat {
+	width: 16.76vw;
+	height: 19vh;
+	margin-left: 1vw;
+	margin-bottom: 2vh;
+	float: left;
+	background-color: #E3D6C9;
+}
+
+.lima {
+	width: 16.76vw;
+	height: 18vh;
+	margin-left: 1vw;
+	float: left;
+	background-color: #E0882A;
+}
+
+.enam {
+	width: 16.76vw;
+	height: 10vh;
+	margin-left: 1vw;
+	float: left;
+	background-color: coral;
+
+}
